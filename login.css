@@ -1,0 +1,11 @@
+body {
+    background-image: url("backgroundLogin.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+  };
+  .container-fluid {
+    padding: 0 !important;
+
+};
+
