@@ -43,9 +43,10 @@ function registerAccount(event) {
     event.preventDefault();
 }
 };
+/*
 
 register.addEventListener('click', Redirect);
 
 function Redirect() {
     location.href = "login.html";;
- };
+ }; */
